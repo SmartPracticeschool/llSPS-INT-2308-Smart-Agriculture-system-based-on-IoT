@@ -8,3 +8,6 @@ Smart Agriculture System Based on IoT can ease the work of Farmer's by providing
 
 Watch My Project Demonstration video in Youtube :
 https://youtu.be/_moJWNWaq_s
+
+My Feedback for SmartInterz Online Internship:
+https://youtu.be/Voq3EKspKcM
